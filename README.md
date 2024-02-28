@@ -169,3 +169,4 @@ Reasoning, Agent, Reinforcement learning, Robotics, Prompt engineering, CoT, ICL
 | Subcategory | Models | Linked Title | Publication Date |
 |-------------|--------|--------------|-----------------|
 |  | GPT-3.5-turbo-x | [LIDA: A Tool for Automatic Generation of Grammar-Agnostic Visualizations and Infographics using Large Language Models](https://aclanthology.org/2023.acl-demo.11/) | 12 July 2023 |
+|  | | [TaskWeaver: A Code-First Agent Framework](https://arxiv.org/abs/2311.17541) | 29 Nov 2023 |
