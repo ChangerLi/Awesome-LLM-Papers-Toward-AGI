@@ -168,4 +168,4 @@ Reasoning, Agent, Reinforcement learning, Robotics, Prompt engineering, CoT, ICL
 ## LLM for Data Analytics
 | Subcategory | Models | Linked Title | Publication Date |
 |-------------|--------|--------------|-----------------|
-|  |  | [LIDA: A Tool for Automatic Generation of Grammar-Agnostic Visualizations and Infographics using Large Language Models](https://aclanthology.org/2023.acl-demo.11/) | 12 July 2023 |
+|  | GPT-3.5-turbo-x | [LIDA: A Tool for Automatic Generation of Grammar-Agnostic Visualizations and Infographics using Large Language Models](https://aclanthology.org/2023.acl-demo.11/) | 12 July 2023 |
