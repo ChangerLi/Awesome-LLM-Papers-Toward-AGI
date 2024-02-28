@@ -164,3 +164,8 @@ Reasoning, Agent, Reinforcement learning, Robotics, Prompt engineering, CoT, ICL
 |  | Grounding DINO | [Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection](https://arxiv.org/abs/2303.05499) | 9 Mar 2023 |
 |  | PointCLIP | [PointCLIP: Point Cloud Understanding by CLIP](https://arxiv.org/abs/2112.02413) | 4 Dec 2021 |
 |  | Segment Anything | [Segment Anything](https://arxiv.org/abs/2304.02643) | 5 Apr 2023 |
+
+## LLM for Data Analytics
+| Subcategory | Models | Linked Title | Publication Date |
+|-------------|--------|--------------|-----------------|
+|  |  | [LIDA: A Tool for Automatic Generation of Grammar-Agnostic Visualizations and Infographics using Large Language Models](https://aclanthology.org/2023.acl-demo.11/) | 12 July 2023 |
